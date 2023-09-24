@@ -49,7 +49,7 @@ class _MyHomePageState extends State<MyHomePage> {
     mealsList.add(m5);
     mealsList.add(m6);
 
-    return mealsList; //
+    return mealsList; //deneme
   }
 
   @override
